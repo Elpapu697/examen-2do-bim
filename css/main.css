@@ -1,0 +1,249 @@
+
+.body {
+    width: 100vw;
+    height:100vh;
+    background: linear-gradient(red, yellow, blue, green);
+}
+.container {
+   
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(black,white);
+   
+    
+}
+.son1 {
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 50vh;
+    background-color: transparent;
+}
+.son2 {
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 50vh;
+    background-color: transparent;
+}
+.foto {
+    padding: 0%;
+    border: 0%;
+    width: 400px;   
+    height: 400px;
+    border-radius: 20%;
+    z-index: 1;
+
+}
+
+.item {
+    padding: 0%;
+    border: 0%;
+    width: 400px;
+    height: 400px;
+    background-color: transparent;
+    z-index: 1;
+    
+}
+
+.foto:hover {
+    padding: 0%;
+    border: 0%;
+    width: 600px;   
+    height: 600px;
+    border-radius: 20%;
+    
+}
+
+.item:hover {
+    padding: 0%;
+    border: 0%;
+    width: 600px;   
+    height: 600px;
+    border-radius: 20%;
+    z-index: 30;
+    transition: 1s;
+}
+
+
+#uno {
+    background-color: rgb(27, 148, 189);
+    
+}
+#uno:hover {
+    background-image: url(../img/ciencias.jpg);
+}
+#dos {
+    background-color: rgb(127, 189, 27);
+}
+#dos:hover {
+    background-image: url(../img/letras.jpg);
+}
+#tres {
+    background-color: rgb(195, 109, 66);
+}
+#tres:hover {
+    background-image: url(../img/otros.jpg);
+}
+
+.children {
+    display: flex;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 20vh;
+    background-color: rgb(189, 27, 141);
+    align-items: center;
+    justify-content: center;
+}
+
+
+.children:hover {
+    display: flex;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 40vh;
+    background-image: url(../img/matematicas.jpg);
+    background-color: rgb(6, 62, 107);
+    align-items: center;
+    justify-content: center;
+    transition: 1s;
+
+}
+.daughter {
+    display: flex;
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 33vh;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+.refe {
+    padding: 0%;
+    border: 0%;
+    width: 30vw;
+    height: 33vh;
+    background-color: transparent;
+}
+.des {
+    padding: 0%;
+    border: 0%;
+    width: 40vw;
+    height: 33vh;
+    background-color:transparent;
+}
+.titu {
+    padding: 0%;
+    border: 0%;
+    width: 40vw;
+    height: 20%;
+    background-color: red;
+}
+
+.mu {
+    padding: 0%;
+    border: 0%;
+    width: 40vw;
+    height: 80%;
+    background-color: skyblue;
+}
+
+.imag {
+    padding: 0%;
+    border: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+.siblin {
+    padding: 0%;
+    border: 0%;
+    width: 33vw;
+    height: 50vh;
+    background-color: pink;
+}
+.ft {
+    padding: 0%;
+    border: 0%;
+    width: 33vw;
+    height: 50vh;
+    background-color: rgb(165, 28, 51);
+    position: absolute;
+}
+.texto {
+    padding: 0%;
+    border: 0%;
+    width: 33vw;
+    height: 50vh;
+    background-color: transparent;
+    
+    
+}
+.ft:hover {
+    padding: 0%;
+    border: 0%;
+    width: 33vw;
+    height: 50vh;
+    background-color: rgb(165, 28, 51);
+    position: relative;
+}
+
+
+
+.continer {
+   
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.risa {
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.fot {
+    padding: 0%;
+    border: 0%;
+    width: 100vw;
+    height: 100vh;
+}
+
+.fota {
+    padding: 0%;
+    border: 0%;
+    width: 50px;
+    height: 50px;
+}
+.fo 
+    {
+        padding: 0%;
+        border: 0%;
+        width: 100%;
+        height: 100%;
+}
+
+
+
+
+
+
+
+
